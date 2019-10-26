@@ -285,6 +285,7 @@ endif
 PRODUCT_PACKAGES += \
     init.class_main.sh \
     init.qcom.bt.sh \
+    init.qcom.early_boot.sh \
     init.qcom.post_boot.sh \
     move_time_data.sh \
     move_wifi_data.sh
