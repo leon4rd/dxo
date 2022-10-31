@@ -23,17 +23,9 @@ budget smartphone from Xiaomi.
  Dimensions | 158.6 x 76.4 x 8.4 mm
  Display | 720 x 1520 pixels, 19:9 ratio, 6.26 inches (~269 ppi density)
  Rear camera | 12 MP, f/2.2, 1.25 μm , PDAF , 2 MP, f/2.2, depth sensor
- Front camera | 8 MP, f/2.0      
+ Front camera | 8 MP, f/2.0
  
  
   ## Device picture
  
-  ![Xiaomi Redmi 7 ](https://mymobile.com.au/media/catalog/product/cache/1/image/1800x/040ec09b1e35df139433887a97daa66f/x/i/xiaomi_redmi_7_32gb_blue_3gb_-_1_1.jpg "Xiaomi Redmi 7")
-
-
- 
-                
-
- 
- 
-  
+  ![Xiaomi Redmi 7 ](https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-redmi-7-1.jpg "Xiaomi Redmi 7")
